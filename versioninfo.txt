@@ -1,0 +1,1 @@
+27avg2014 - sredjeno prikazivanje ukupnog broja racuna. Svi ostali rezultati se ispravno prikazuju. Punjenje podataka traje 55min, onemoguceno pokretanje punjenja ako je ovaj task vec u toku. Prebacivanje podataka sa servera krece u 7:45, cron za punjenje baze krece u 8:00. Sredjeno kreiranje csv fajla i slanje email-om.
