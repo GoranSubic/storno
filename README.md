@@ -1,2 +1,2 @@
 # storno
-Create db from csv files and handle that data with SQL
+Import data from csv files into MySql database and display data through web application
